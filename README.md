@@ -93,6 +93,7 @@ subscription {
 ---
 
 ### TODO
+- [ ] Update dependencies
 - [ ] Mutation for updating characteristic
 - [ ] Refactor
 - [ ] Classic REST API
